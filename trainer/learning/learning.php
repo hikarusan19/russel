@@ -56,7 +56,7 @@ session_start();
             <div class="col-6">
                 <div class="card">
                     <div class="container">
-                        <h3 class="white-text text-center">No. of Trainees</h3>
+                        <h3 class="white-text text-center">No. ofwdawdwad Trainees</h3>
                     </div>
                 </div>
             </div>
